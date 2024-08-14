@@ -30,3 +30,7 @@ terraform.rc
 
 # Lambda directories
 builds/
+
+# Terraform Credentials
+creds.tf
+./examples/blue-green-deployment/creds.tf
